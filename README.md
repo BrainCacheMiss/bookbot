@@ -1,2 +1,3 @@
 # bookbot
-Boot.Dev assignment to build a bookbot 
+
+BookBot is my first [Boot.dev](https://www.boot.dev) project! 
